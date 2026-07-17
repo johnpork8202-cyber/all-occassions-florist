@@ -14,7 +14,7 @@ steady demand, no design/video skills needed. One niche, two gigs.
 ### John's setup steps (~20 min, one time)
 
 1. fiverr.com → Join → sign up with johnpork8202@gmail.com → verify email + phone.
-2. Switch to seller mode ("Become a Seller"). Fill profile honestly: "Professional resume & cover letter writer. Every document is individually rewritten for your target job — no generic templates. 24–48h delivery."
+2. Switch to seller mode ("Become a Seller"). Title: "Professional resume and cover letter writer". Approved About bio: "I help job seekers land interviews with resumes and cover letters that get past ATS filters and actually sound human. Every order is individually tailored — no templates. 24–48h delivery." Skills: Resume Writing, Cover Letters, ATS Optimization, Editing, LinkedIn Profiles. Language: English.
 3. Create Gig 1 and Gig 2 below (copy-paste). Skip anything asking for payment/billing — not needed.
 4. When an order lands: paste the buyer's materials + target job into a Claude session (or brain/inbox.md) → Claude writes the deliverable → John reviews, delivers in Fiverr chat.
 
@@ -68,7 +68,8 @@ steady demand, no design/video skills needed. One niche, two gigs.
 
 ### Status
 
-- [ ] Fiverr account created (John)
+- [x] Fiverr account created — username **johnpork82**, display name "John Pork" (2026-07-17, via Claude for Chrome)
+- [ ] Seller profile complete — in progress: skills + bio approved; John uploading real profile photo (no AI headshot — flag/trust risk)
 - [ ] Gig 1 live
 - [ ] Gig 2 live
 - [ ] First order
