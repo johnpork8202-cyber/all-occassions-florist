@@ -74,3 +74,5 @@ steady demand, no design/video skills needed. One niche, two gigs.
 - [ ] Gig 2 live
 - [ ] First order
 - [ ] First withdrawal method decision (only needed after money is earned; PayPal = no bank info)
+- [ ] W-9 submitted in Fiverr settings (2026-07-18: reached this step; not "filed" with IRS — Fiverr collects it in-app; skipping = 24% backup withholding. SSN typed by John only, never via AI/extension)
+- Tax notes: 1099-K threshold is $20k + 200 orders (2026, post-OBBBA rollback); all income still reportable; SE tax at $400+ net; rule of thumb — set aside 25–30% of payouts. Log every order + payout here.
